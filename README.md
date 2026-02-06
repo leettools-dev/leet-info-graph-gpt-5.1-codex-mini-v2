@@ -13,8 +13,7 @@ and receive AI-generated infographics wit...
 
 ## Features
 
-*Features will be documented here as they are implemented.*
-
+- Implemented backend skeleton with FastAPI service structure, health router, and CLI entrypoint.
 ## Getting Started
 
 ### Prerequisites
