@@ -3,7 +3,7 @@
     {
       "id": "tasks",
       "content": "Tasks:**",
-      "status": "pending",
+      "status": "in_progress",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -13,7 +13,7 @@
     {
       "id": "initialize-python-package-structure-under-backend-src-infograph",
       "content": "Initialize Python package structure under `backend/src/infograph/`",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -23,7 +23,7 @@
     {
       "id": "create-main-py-with-click-cli-for-starting-server",
       "content": "Create `main.py` with Click CLI for starting server",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -33,7 +33,7 @@
     {
       "id": "create-api-service-py-with-fastapi-app-cors-middleware",
       "content": "Create `api_service.py` with FastAPI app, CORS middleware",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -43,7 +43,7 @@
     {
       "id": "create-health-router-py-with-api-v1-health-endpoint",
       "content": "Create `health_router.py` with `/api/v1/health` endpoint",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -53,7 +53,7 @@
     {
       "id": "add-pyproject-toml-with-dependencies",
       "content": "Add `pyproject.toml` with dependencies",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -73,7 +73,7 @@
     {
       "id": "python--m-infograph-svc-main---port-8000-starts-the-server",
       "content": "`python -m infograph.svc.main --port 8000` starts the server",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -83,7 +83,7 @@
     {
       "id": "get-http-localhost-8000-api-v1-health-returns-status-ok",
       "content": "`GET http://localhost:8000/api/v1/health` returns `{\"status\": \"ok\"}`",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
@@ -93,7 +93,7 @@
     {
       "id": "pytest-test-passes-for-health-endpoint",
       "content": "pytest test passes for health endpoint",
-      "status": "pending",
+      "status": "completed",
       "background": null,
       "dependencies": [],
       "suggested_solutions": [],
