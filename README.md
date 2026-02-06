@@ -18,8 +18,7 @@ and receive AI-generated infographics wit...
 
 ### Prerequisites
 
-*Prerequisites will be documented here.*
-
+*Backend project dependencies: Python 3.11+, FastAPI, Uvicorn, Click, python-multipart.*
 ### Installation
 
 ```bash
