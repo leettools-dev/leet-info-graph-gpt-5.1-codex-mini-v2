@@ -1429,16 +1429,6 @@
       "suggested_solutions": [],
       "goal_id": null,
       "branch": null
-    },
-    {
-      "id": "main",
-      "content": "main",
-      "status": "in_progress",
-      "background": null,
-      "dependencies": [],
-      "suggested_solutions": [],
-      "goal_id": null,
-      "branch": "main"
     }
   ]
 }
